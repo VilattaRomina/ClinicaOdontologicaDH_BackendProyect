@@ -1,0 +1,128 @@
+[2022-06-3009:46:43] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2022-06-3014:38:33] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0416:27:42] [ ERROR] [GlobalExceptionHandler:21] El paciente o el odontologo no existen
+[2022-07-0418:51:41] [ ERROR] [GlobalExceptionHandler:21] Request method 'POST' not supported
+[2022-07-0418:51:52] [ ERROR] [GlobalExceptionHandler:21] Request method 'POST' not supported
+[2022-07-0418:52:51] [ ERROR] [GlobalExceptionHandler:21] class java.util.ArrayList cannot be cast to class java.util.Set (java.util.ArrayList and java.util.Set are in module java.base of loader 'bootstrap')
+[2022-07-0418:55:24] [ ERROR] [GlobalExceptionHandler:21] class java.util.ArrayList cannot be cast to class java.util.Set (java.util.ArrayList and java.util.Set are in module java.base of loader 'bootstrap')
+[2022-07-0418:56:12] [ ERROR] [GlobalExceptionHandler:21] class java.util.ArrayList cannot be cast to class java.util.Set (java.util.ArrayList and java.util.Set are in module java.base of loader 'bootstrap')
+[2022-07-0419:06:26] [ ERROR] [GlobalExceptionHandler:21] Request method 'POST' not supported
+[2022-07-0419:07:01] [ ERROR] [GlobalExceptionHandler:21] El paciente o el odontologo no existen
+[2022-07-0419:09:19] [ ERROR] [GlobalExceptionHandler:21] No class com.dh.clinicaOdontologica.model.Turno entity with id 1 exists!
+[2022-07-0419:10:26] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0419:12:51] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0419:12:57] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0419:13:06] [ ERROR] [GlobalExceptionHandler:21] JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 5, column: 2]
+[2022-07-0419:13:16] [ ERROR] [GlobalExceptionHandler:21] Cannot invoke "com.dh.clinicaOdontologica.model.Paciente.getId()" because the return value of "com.dh.clinicaOdontologica.model.Turno.getPaciente()" is null
+[2022-07-0419:24:52] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0419:30:12] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0419:30:51] [ ERROR] [GlobalExceptionHandler:21] El paciente o el odontologo no existen
+[2022-07-0511:09:35] [ ERROR] [GlobalExceptionHandler:21] Cannot invoke "com.dh.clinicaOdontologica.model.Odontologo.getId()" because the return value of "com.dh.clinicaOdontologica.model.Turno.getOdontologo()" is null
+[2022-07-0511:10:46] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0511:17:30] [ ERROR] [GlobalExceptionHandler:21] El paciente o el odontologo no existen
+[2022-07-0511:17:48] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0511:22:13] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0511:27:16] [ ERROR] [GlobalExceptionHandler:21] detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.dh.clinicaOdontologica.model.Odontologo
+[2022-07-0511:31:28] [ ERROR] [GlobalExceptionHandler:21] El paciente o el odontologo no existen
+[2022-07-0711:51:21] [ INFO ] [OdontologoService:26] Odontologo guardado exitosamente
+[2022-07-0711:55:29] [ INFO ] [OdontologoService:28] Paciente guardado exitosamente
+[2022-07-0711:57:25] [ INFO ] [TurnoService:26] Buscando paciente y odontologo
+[2022-07-0711:57:25] [ ERROR] [GlobalExceptionHandler:21] No se encontro un odontologo con id 1
+[2022-07-0711:57:52] [ INFO ] [OdontologoService:26] Odontologo guardado exitosamente
+[2022-07-0711:57:56] [ INFO ] [TurnoService:26] Buscando paciente y odontologo
+[2022-07-0722:38:55] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:39:02] [ DEBUG] [OdontologoService:26] Guardando odontologo
+[2022-07-0722:39:02] [ DEBUG] [OdontologoService:28] Odontologo guardado exitosamente
+[2022-07-0722:39:03] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:39:08] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:39:42] [ DEBUG] [OdontologoService:28] Guardando paciente
+[2022-07-0722:39:42] [ DEBUG] [OdontologoService:30] Paciente guardado exitosamente
+[2022-07-0722:40:04] [ DEBUG] [OdontologoService:28] Guardando paciente
+[2022-07-0722:40:04] [ DEBUG] [OdontologoService:30] Paciente guardado exitosamente
+[2022-07-0722:40:07] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:40:10] [ DEBUG] [OdontologoService:60] Buscando paciente
+[2022-07-0722:40:10] [ DEBUG] [OdontologoService:64] Se elimino el paciente con id 1
+[2022-07-0722:40:20] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:40:20] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:40:20] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-0722:40:21] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:40:21] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:40:34] [ DEBUG] [TurnoService:27] Buscando paciente y odontologo
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:36] Buscando paciente
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:40] Se encontro el paciente con id 2
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:34] Buscando odontologo
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:38] Se encontro el odontologo con id 1
+[2022-07-0722:40:34] [ DEBUG] [TurnoService:30] Turno guardado exitosamente
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:40:34] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:40:36] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-0722:40:36] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-0722:40:36] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1109:50:49] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:50:49] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:50:49] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1109:51:06] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:51:11] [ DEBUG] [OdontologoService:26] Guardando odontologo
+[2022-07-1109:51:11] [ DEBUG] [OdontologoService:28] Odontologo guardado exitosamente
+[2022-07-1109:51:12] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:51:16] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:51:47] [ DEBUG] [OdontologoService:28] Guardando paciente
+[2022-07-1109:51:47] [ DEBUG] [OdontologoService:30] Paciente guardado exitosamente
+[2022-07-1109:51:49] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:51:52] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:51:52] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:51:52] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1109:52:10] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:52:10] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:52:10] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1109:52:11] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:52:11] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:52:20] [ DEBUG] [TurnoService:27] Buscando paciente y odontologo
+[2022-07-1109:52:20] [ DEBUG] [OdontologoService:36] Buscando paciente
+[2022-07-1109:52:20] [ DEBUG] [OdontologoService:40] Se encontro el paciente con id 1
+[2022-07-1109:52:20] [ DEBUG] [OdontologoService:34] Buscando odontologo
+[2022-07-1109:52:20] [ DEBUG] [OdontologoService:38] Se encontro el odontologo con id 1
+[2022-07-1109:52:20] [ DEBUG] [TurnoService:30] Turno guardado exitosamente
+[2022-07-1109:52:21] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1109:52:21] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:52:24] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1109:52:24] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1109:52:24] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:35:20] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:35:26] [ DEBUG] [OdontologoService:26] Guardando odontologo
+[2022-07-1112:35:26] [ DEBUG] [OdontologoService:28] Odontologo guardado exitosamente
+[2022-07-1112:35:52] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:39:03] [ DEBUG] [OdontologoService:34] Buscando odontologo
+[2022-07-1112:39:03] [ DEBUG] [OdontologoService:38] Se encontro el odontologo con id 1
+[2022-07-1112:39:36] [ DEBUG] [OdontologoService:52] Modificando odontologo
+[2022-07-1112:39:36] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:39:45] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:39:48] [ DEBUG] [OdontologoService:59] Buscando odontologo
+[2022-07-1112:39:48] [ DEBUG] [OdontologoService:63] Se elimino el odontologo con id 1
+[2022-07-1112:39:55] [ DEBUG] [OdontologoService:26] Guardando odontologo
+[2022-07-1112:39:55] [ DEBUG] [OdontologoService:28] Odontologo guardado exitosamente
+[2022-07-1112:39:56] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:41:06] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:41:11] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:04] [ DEBUG] [OdontologoService:28] Guardando paciente
+[2022-07-1112:42:04] [ DEBUG] [OdontologoService:30] Paciente guardado exitosamente
+[2022-07-1112:42:07] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:10] [ DEBUG] [OdontologoService:36] Buscando paciente
+[2022-07-1112:42:10] [ DEBUG] [OdontologoService:40] Se encontro el paciente con id 1
+[2022-07-1112:42:20] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:20] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:42:20] [ DEBUG] [TurnoService:48] Buscando turnos
+[2022-07-1112:42:25] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:25] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:42:37] [ DEBUG] [TurnoService:27] Buscando paciente y odontologo
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:36] Buscando paciente
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:40] Se encontro el paciente con id 1
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:34] Buscando odontologo
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:38] Se encontro el odontologo con id 2
+[2022-07-1112:42:37] [ DEBUG] [TurnoService:30] Turno guardado exitosamente
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:42:37] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:38] [ DEBUG] [OdontologoService:47] Buscando pacientes
+[2022-07-1112:42:38] [ DEBUG] [OdontologoService:46] Buscando odontologos
+[2022-07-1112:42:38] [ DEBUG] [TurnoService:48] Buscando turnos
